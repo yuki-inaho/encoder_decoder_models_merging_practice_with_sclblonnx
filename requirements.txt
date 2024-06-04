@@ -1,0 +1,4 @@
+torch
+torchvision
+sclblonnx==0.2.1
+jupyterlab
