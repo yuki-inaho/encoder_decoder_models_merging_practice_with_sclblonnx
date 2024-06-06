@@ -1,4 +1,5 @@
 torch
 torchvision
-sclblonnx==0.2.1
+sclblonnx
 jupyterlab
+onnx-simplifier
